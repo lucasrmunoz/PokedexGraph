@@ -1,8 +1,11 @@
-using PokedexApiGraphQL.GraphQL;
+using System.Text.Json;
 using System.Text.Json.Serialization;
+using PokedexApiGraphQL.GraphQL;
+using PokeApiNet;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
+// Configure JSON serialization
 builder.Services.ConfigureHttpJsonOptions(options =>
 {
     options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);

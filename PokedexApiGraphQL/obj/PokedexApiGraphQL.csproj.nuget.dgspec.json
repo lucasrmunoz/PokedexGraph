@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SoftwareProjects\\PokedexApiGraphQL\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj": {}
+    "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj": {}
   },
   "projects": {
-    "F:\\SoftwareProjects\\PokedexApiGraphQL\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj": {
+    "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SoftwareProjects\\PokedexApiGraphQL\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj",
+        "projectUniqueName": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj",
         "projectName": "PokedexApiGraphQL",
-        "projectPath": "F:\\SoftwareProjects\\PokedexApiGraphQL\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\SoftwareProjects\\PokedexApiGraphQL\\PokedexApiGraphQL\\obj\\",
+        "projectPath": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\PokedexApiGraphQL.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,13 +50,13 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.7, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.7, )",
               "autoReferenced": true
             },
             "PokeApiNet": {
@@ -86,7 +78,7 @@
           "downloadDependencies": [
             {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.2, 8.0.2]"
+              "version": "[8.0.7, 8.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -97,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\lucas\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

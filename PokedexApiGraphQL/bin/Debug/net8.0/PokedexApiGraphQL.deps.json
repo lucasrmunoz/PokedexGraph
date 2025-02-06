@@ -9,8 +9,8 @@
       "PokedexApiGraphQL/1.0.0": {
         "dependencies": {
           "HotChocolate.AspNetCore": "14.3.0",
-          "Microsoft.DotNet.ILCompiler": "8.0.2",
-          "Microsoft.NET.ILLink.Tasks": "8.0.2",
+          "Microsoft.DotNet.ILCompiler": "8.0.7",
+          "Microsoft.NET.ILLink.Tasks": "8.0.7",
           "PokeApiNet": "4.0.0"
         },
         "runtime": {
@@ -447,7 +447,7 @@
         }
       },
       "Microsoft.CSharp/4.7.0": {},
-      "Microsoft.DotNet.ILCompiler/8.0.2": {},
+      "Microsoft.DotNet.ILCompiler/8.0.7": {},
       "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0"
@@ -477,7 +477,7 @@
         }
       },
       "Microsoft.Extensions.Primitives/8.0.0": {},
-      "Microsoft.NET.ILLink.Tasks/8.0.2": {},
+      "Microsoft.NET.ILLink.Tasks/8.0.7": {},
       "PokeApiNet/4.0.0": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -784,12 +784,12 @@
       "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
-    "Microsoft.DotNet.ILCompiler/8.0.2": {
+    "Microsoft.DotNet.ILCompiler/8.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rGE3+673xn1iZJCoMIuUb9lhqje4DiCB+qTyPAJ97Bw15c4N69ZbMAO/GJyxchaoLJCHIPXP52hwxEzqrllwCg==",
-      "path": "microsoft.dotnet.ilcompiler/8.0.2",
-      "hashPath": "microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+      "sha512": "sha512-5Vkl5384rfKZmK7rVm8pjuMk2Cweaqd+rPwL86bddhInHdBg3ClO9H0cqwd7kXf+F8/aXuZxKAnl6izzaWkfUw==",
+      "path": "microsoft.dotnet.ilcompiler/8.0.7",
+      "hashPath": "microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
       "type": "package",
@@ -847,12 +847,12 @@
       "path": "microsoft.extensions.primitives/8.0.0",
       "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.2": {
+    "Microsoft.NET.ILLink.Tasks/8.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hKTrehpfVzOhAz0mreaTAZgbz0DrMEbWq4n3hAo8Ks6WdxdqQhNPvzOqn9VygKuWf1bmxPdraqzTaXriO/sn0A==",
-      "path": "microsoft.net.illink.tasks/8.0.2",
-      "hashPath": "microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+      "sha512": "sha512-iI52ptEKby2ymQ6B7h4TWbFmm85T4VvLgc/HvS45Yr3lgi4IIFbQtjON3bQbX/Vc94jXNSLvrDOp5Kh7SJyFYQ==",
+      "path": "microsoft.net.illink.tasks/8.0.7",
+      "hashPath": "microsoft.net.illink.tasks.8.0.7.nupkg.sha512"
     },
     "PokeApiNet/4.0.0": {
       "type": "package",
