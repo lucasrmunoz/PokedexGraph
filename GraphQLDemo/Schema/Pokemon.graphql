@@ -1,0 +1,19 @@
+schema {
+  query: Query
+}
+
+type Query {
+  pokemon(name: String!): Pokemon
+}
+
+type Pokemon {
+  name: String!
+  types: [String!]!
+}
+
+query GetPokemon($name: String!) {
+  pokemon(name: $name) {
+    name
+    types
+  }
+} 

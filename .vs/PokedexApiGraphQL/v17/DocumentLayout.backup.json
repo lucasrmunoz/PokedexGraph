@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev Workspace\\PokedexGraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763C609B-1F99-4E12-8281-27017FF68097}|PokedexApiGraphQL\\PokedexApiGraphQL.csproj|d:\\dev workspace\\pokedexgraph\\pokedexapigraphql\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763C609B-1F99-4E12-8281-27017FF68097}|PokedexApiGraphQL\\PokedexApiGraphQL.csproj|solutionrelative:pokedexapigraphql\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C609B-1F99-4E12-8281-27017FF68097}|PokedexApiGraphQL\\PokedexApiGraphQL.csproj|d:\\dev workspace\\pokedexgraph\\pokedexapigraphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763C609B-1F99-4E12-8281-27017FF68097}|PokedexApiGraphQL\\PokedexApiGraphQL.csproj|solutionrelative:pokedexapigraphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C609B-1F99-4E12-8281-27017FF68097}|PokedexApiGraphQL\\PokedexApiGraphQL.csproj|d:\\dev workspace\\pokedexgraph\\pokedexapigraphql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{763C609B-1F99-4E12-8281-27017FF68097}|PokedexApiGraphQL\\PokedexApiGraphQL.csproj|solutionrelative:pokedexapigraphql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PokedexApiGraphQL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PokedexApiGraphQL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T21:07:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "PokedexApiGraphQL\\GraphQL\\Query.cs",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\GraphQL\\Query.cs",
+              "RelativeToolTip": "PokedexApiGraphQL\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:10:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\Program.cs",
+              "RelativeDocumentMoniker": "PokedexApiGraphQL\\Program.cs",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\PokedexApiGraphQL\\Program.cs",
+              "RelativeToolTip": "PokedexApiGraphQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:07:24.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
