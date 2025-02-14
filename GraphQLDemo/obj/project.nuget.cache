@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Dd8vdz6Za0=",
+  "dgSpecHash": "fDbHDxw8Wb4=",
   "success": true,
-  "projectFilePath": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\GraphQLDemo.csproj",
+  "projectFilePath": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\PokedexGraphApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\chillicream.nitro.app\\23.0.4\\chillicream.nitro.app.23.0.4.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\graphql.client\\6.1.0\\graphql.client.6.1.0.nupkg.sha512",

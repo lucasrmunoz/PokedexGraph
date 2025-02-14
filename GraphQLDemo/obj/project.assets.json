@@ -2971,9 +2971,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\GraphQLDemo.csproj",
-      "projectName": "GraphQLDemo",
-      "projectPath": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\GraphQLDemo.csproj",
+      "projectUniqueName": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\PokedexGraphApi.csproj",
+      "projectName": "PokedexGraphApi",
+      "projectPath": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\PokedexGraphApi.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
       "outputPath": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\obj\\",
       "projectStyle": "PackageReference",
