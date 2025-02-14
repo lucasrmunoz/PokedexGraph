@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "bnr5OkUXuVG/gTULRiYe7ImgpS4aq9fEv/AT8VpT2LI=",
-  "Source": "GraphQLDemo",
-  "BasePath": "_content/GraphQLDemo",
+  "Hash": "jWq1TAkciXBOb3Qgt8wSyjfL2oFkwvED2PVEriW5Xlw=",
+  "Source": "PokedexGraphApi",
+  "BasePath": "_content/PokedexGraphApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
