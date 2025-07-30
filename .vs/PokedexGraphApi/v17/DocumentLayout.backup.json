@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\Dev Workspace\\PokedexGraph\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|solutionrelative:graphqldemo\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|solutionrelative:graphqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|solutionrelative:graphqldemo\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|solutionrelative:graphqldemo\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\GraphQLDemo.csproj|solutionrelative:graphqldemo\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\models\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\models\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\schema\\pokemon.graphql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\schema\\pokemon.graphql||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|d:\\dev workspace\\pokedexgraph\\graphqldemo\\queries\\pokemon.graphql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71E1FC72-3566-41A1-8C12-1475A5112069}|GraphQLDemo\\PokedexGraphApi.csproj|solutionrelative:graphqldemo\\queries\\pokemon.graphql||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Models\\Pokemon.cs",
-              "RelativeDocumentMoniker": "GraphQLDemo\\Models\\Pokemon.cs",
-              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Models\\Pokemon.cs",
-              "RelativeToolTip": "GraphQLDemo\\Models\\Pokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:18:59.896Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Query.cs",
               "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\GraphQL\\Query.cs",
               "RelativeDocumentMoniker": "GraphQLDemo\\GraphQL\\Query.cs",
               "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\GraphQL\\Query.cs",
               "RelativeToolTip": "GraphQLDemo\\GraphQL\\Query.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:18:16.796Z",
+              "WhenOpened": "2025-02-09T22:18:16.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pokemon.graphql",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Schema\\Pokemon.graphql",
+              "RelativeDocumentMoniker": "GraphQLDemo\\Schema\\Pokemon.graphql",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Schema\\Pokemon.graphql",
+              "RelativeToolTip": "GraphQLDemo\\Schema\\Pokemon.graphql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T03:26:32.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQLDemo\\Program.cs",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Program.cs",
+              "RelativeToolTip": "GraphQLDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:12:13.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "PokemonDto.cs",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Models\\PokemonDto.cs",
+              "RelativeDocumentMoniker": "GraphQLDemo\\Models\\PokemonDto.cs",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Models\\PokemonDto.cs",
+              "RelativeToolTip": "GraphQLDemo\\Models\\PokemonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:11:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "GraphQLDemo\\Controllers\\PokemonController.cs",
               "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Controllers\\PokemonController.cs",
               "RelativeToolTip": "GraphQLDemo\\Controllers\\PokemonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T22:13:35.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PokemonService.cs",
               "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Services\\PokemonService.cs",
               "RelativeDocumentMoniker": "GraphQLDemo\\Services\\PokemonService.cs",
               "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Services\\PokemonService.cs",
               "RelativeToolTip": "GraphQLDemo\\Services\\PokemonService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T22:12:30.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Program.cs",
-              "RelativeDocumentMoniker": "GraphQLDemo\\Program.cs",
-              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Program.cs",
-              "RelativeToolTip": "GraphQLDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:12:13.083Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GraphQLDemo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GraphQLDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T15:14:52.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pokemon.graphql",
+              "DocumentMoniker": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Queries\\Pokemon.graphql",
+              "RelativeDocumentMoniker": "GraphQLDemo\\Queries\\Pokemon.graphql",
+              "ToolTip": "D:\\Dev Workspace\\PokedexGraph\\GraphQLDemo\\Queries\\Pokemon.graphql",
+              "RelativeToolTip": "GraphQLDemo\\Queries\\Pokemon.graphql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T03:26:47.641Z"
             }
           ]
         }
