@@ -1,8 +1,7 @@
 using GraphQL.Client.Http;
 using GraphQL.Client.Serializer.Newtonsoft;
-
-using GraphQLDemo.Services;
-using GraphQLDemo.GraphQL;
+using PokedexGraph.Services;
+using PokedexGraph.GraphQL;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,8 +13,7 @@ builder.Services.AddSingleton<GraphQLHttpClient>(sp =>
 // Configure GraphQL server
 builder.Services
     .AddGraphQLServer()
-    .AddQueryType<Query>()
-    .AddType<PokemonType>();
+    .AddQueryType<Query>();
 
 builder.Services.AddScoped<PokemonService>();
 
@@ -24,5 +22,8 @@ var app = builder.Build();
 app.UseRouting();
 app.UseWebSockets();
 app.MapGraphQL();
+
+// Redirect root to /graphql
+app.MapGet("/", () => Results.Redirect("/graphql"));
 
 app.Run();
