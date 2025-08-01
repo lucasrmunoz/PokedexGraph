@@ -76,10 +76,10 @@ D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\staticwebassets\msbui
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokedexGraphApi.props
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokedexGraphApi.props
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\PokedexG.9D323408.Up2Date
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\PokedexGraphApi.dll
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\refint\PokedexGraphApi.dll
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\PokedexGraphApi.pdb
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\PokedexGraphApi.genruntimeconfig.cache
 D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\ref\PokedexGraphApi.dll
-D:\Dev Workspace\PokedexGraph\GraphQLDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
