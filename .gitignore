@@ -363,3 +363,7 @@ FodyWeavers.xsd
 *.user
 *.userosscache
 *.sln.docstates
+
+GraphQLDemo/obj/Debug/net8.0/PokedexGraphApi.AssemblyInfo.cs
+
+GraphQLDemo/obj/Debug/net8.0/PokedexGraphApi.AssemblyInfoInputs.cache
