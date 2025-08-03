@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using GraphQLDemo.Services;
+using PokeApiNet;
+using PokedexGraph.Services;
 
 namespace GraphQLDemo.Controllers;
 

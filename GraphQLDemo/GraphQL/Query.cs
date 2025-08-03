@@ -1,47 +1,30 @@
 using HotChocolate;
-using GraphQLDemo.Services;
+using PokedexGraph.Services;
 using PokeApiNet;
-
-namespace GraphQLDemo.GraphQL;
+using PokedexGraphApi.Models;
+namespace PokedexGraph.GraphQL;
 
 public class Query
 {
     [GraphQLDescription("Get a Pokemon by its name")]
-    public async Task<PokemonType?> GetPokemon([Service] PokemonService pokemonService, string name)
+    public async Task<PokemonDto?> GetPokemon([Service] PokemonService pokemonService, string name)
     {
-        var pokemon = await pokemonService.GetPokemonByName(name);
-        return pokemon != null ? new PokemonType(pokemon) : null;
+        var pokemon =  await pokemonService.GetPokemonByName(name);
+        if (pokemon == null) return null;
+
+        return new PokemonDto
+        {
+            Id = pokemon.Id,
+            Name = pokemon?.Name,
+            Types = pokemon?.Types.Select(x => x.Type.Name).ToList()
+                    ?? [new($"No types found for {name}")],
+            Height = pokemon?.Height,
+            Weight = pokemon?.Weight,
+            Abilities = pokemon?.Abilities.Select(x => x.Ability.Name).ToList()
+                        ?? [new($"No abilities found for {name}")],
+            SpriteUrl = pokemon?.Sprites?.Versions?.GenerationI?.RedBlue?.FrontDefault ??
+                        "No sprite available for Gen 1",
+            BaseExperience = pokemon?.BaseExperience,
+        };
     }
 }
-
-[GraphQLDescription("Pokemon information")]
-public class PokemonType
-{
-    public PokemonType(Pokemon pokemon)
-    {
-        Id = pokemon.Id;
-        Name = pokemon.Name;
-        Height = pokemon.Height;
-        Weight = pokemon.Weight;
-        BaseExperience = (int)pokemon?.BaseExperience;
-        Types = pokemon.Types.Select(t => t.Type.Name).ToList();
-    }
-
-    [GraphQLDescription("The Pokemon's Pokedex number")]
-    public int Id { get; set; }
-
-    [GraphQLDescription("The Pokemon's name")]
-    public string Name { get; set; } = string.Empty;
-
-    [GraphQLDescription("The Pokemon's height in decimeters")]
-    public int Height { get; set; }
-
-    [GraphQLDescription("The Pokemon's weight in hectograms")]
-    public int Weight { get; set; }
-
-    [GraphQLDescription("The base experience gained from defeating this Pokemon")]
-    public int BaseExperience { get; set; }
-
-    [GraphQLDescription("The Pokemon's types")]
-    public List<string> Types { get; set; } = new();
-} 

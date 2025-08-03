@@ -1,6 +1,6 @@
 using PokeApiNet;
 
-namespace GraphQLDemo.Services;
+namespace PokedexGraph.Services;
 
 public class PokemonService
 {
