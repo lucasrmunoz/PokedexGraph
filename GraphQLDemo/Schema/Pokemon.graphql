@@ -3,17 +3,20 @@ schema {
 }
 
 type Query {
-  pokemon(name: String!): Pokemon
+  "Get a Pokemon by its name"
+  pokemon(name: String!): PokemonDto
+  
+  "Get a Pokemon by its ID (1-151 only)"
+  pokemonById(id: Int!): PokemonDto
 }
 
-type Pokemon {
-  name: String!
-  types: [String!]!
+type PokemonDto {
+  id: Int!
+  name: String
+  height: Int
+  weight: Int
+  baseExperience: Int
+  abilities: [String!]
+  types: [String!]
+  spriteUrl: String
 }
-
-query GetPokemon($name: String!) {
-  pokemon(name: $name) {
-    name
-    types
-  }
-} 

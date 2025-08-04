@@ -1,0 +1,21 @@
+# Query to get a Pokemon by ID (1-151 only)
+query GetPokemonById($id: Int!) {
+  pokemonById(id: $id) {
+    id
+    name
+    height
+    weight
+    baseExperience
+    types
+    abilities
+    spriteUrl
+  }
+}
+
+# Example usage:
+# Variables: { "id": 25 }
+# This would return Pikachu
+
+# Example with invalid ID:
+# Variables: { "id": 152 }
+# This would return an error: "Pokemon has not been discovered yet! Only Pokemon with IDs 1-151 are available."

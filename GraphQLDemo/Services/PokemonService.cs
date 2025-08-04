@@ -13,9 +13,21 @@ public class PokemonService
 
     public async Task<Pokemon?> GetPokemonByName(string name)
     {
-        try 
+        try
         {
             return await _client.GetResourceAsync<Pokemon>(name);
+        }
+        catch
+        {
+            return null;
+        }
+    }
+
+    public async Task<Pokemon?> GetPokemonById(int id)
+    {
+        try
+        {
+            return await _client.GetResourceAsync<Pokemon>(id);
         }
         catch
         {
